@@ -1,0 +1,77 @@
+body { 
+	
+}
+
+#bfuria {
+	width:75%
+}
+
+.principal{
+	background: #CCCCCC;
+	padding: 30px;
+}
+
+.sec{
+	background: #bbb8d8
+}
+
+
+h1 {
+	text-align: center; font-size:40px;
+}
+
+p {
+	text-align: center; font-size:30px;
+}
+
+#bcs {
+	width:75% ;
+}
+
+#besports {
+	width:50% ;
+}
+
+#bfuria2 {
+	width:75%
+}
+
+#jogadores1 {
+	width:50%;
+}
+
+#player {
+	width:50%;
+}
+
+em strong {
+	color: #FF0000;
+}
+
+.itens {S
+	font-style: italic
+}
+
+h2 {
+	text-align: center; font-size:40px;
+}
+
+h3 {
+	text-align: center; font-size:40px;
+}
+
+h4 {
+	text-align: center; font-size:40px;
+}
+
+h5 {
+	text-align: center; font-size:40px;
+}
+
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	width: 20%;
+	margin-right: 15%;
+}
